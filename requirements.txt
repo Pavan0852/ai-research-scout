@@ -1,0 +1,19 @@
+# UI
+streamlit>=1.48.0
+
+# LLM
+openai>=1.99.0
+
+# Configuration
+python-dotenv>=1.1.1
+PyYAML>=6.0.2
+
+# Data Models
+pydantic>=2.11.7
+
+# Research Sources
+arxiv>=2.2.0
+requests>=2.32.4
+
+# Utilities
+pandas>=2.3.1

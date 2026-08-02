@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.env
+
+.vscode/
+
+.streamlit/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store

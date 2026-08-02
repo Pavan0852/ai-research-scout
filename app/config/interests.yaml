@@ -1,0 +1,25 @@
+user:
+  name: Pavan
+
+  interests:
+    - Agentic AI
+    - Multi-Agent Systems
+    - RAG
+    - Machine Learning
+    - Deep Learning
+    - AI Infrastructure
+    - LLM Engineering
+    - Reinforcement Learning
+
+preferences:
+  papers_per_source: 5
+  digest_style: executive
+  language: English
+
+sources:
+  arxiv: true
+  github: true
+  paperswithcode: true
+
+llm:
+  provider: openrouter
